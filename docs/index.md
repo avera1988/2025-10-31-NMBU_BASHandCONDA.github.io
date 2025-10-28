@@ -32,7 +32,7 @@ description: ""    # suppresses the subheader/tagline
 ## Preparations
 
 Participants must bring a laptop with a Mac, Linux or Windows operating system (not a tablet, Chromebook, etc.). If windows, users must install the Windows Linux Subsystem (WLS).
-
-* [To install the WLS](https://learn.microsoft.com/en-us/windows/wsl/install)
+> [!NOTE]
+> [To install the WLS](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 It would be an advantage if users have access to the [NMBU-Orion HPC](https://orion.nmbu.no/) 
