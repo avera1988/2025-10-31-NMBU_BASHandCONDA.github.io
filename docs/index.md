@@ -25,6 +25,7 @@ description: ""    # suppresses the subheader/tagline
 📍 Location: Room U121, NMBU [Mazemap](https://link.mazemap.com/XMsJP9tR)
 
 🕘 Schedule:
+
     •	Bash: 09:00–12:00
     •	Conda/Mamba: 13:00–16:00
 
