@@ -10,6 +10,8 @@ description: ""    # suppresses the subheader/tagline
 
 💡 <strong>Instructor:</strong> Arturo Vera Ponce de León 
 
+
+
 🤝 <strong>Helpers:</strong> Aikaterini Katirtzoglou, Veronica Quarato, Dave Edison Rojas Calderón
 
 </div>
