@@ -67,7 +67,7 @@ Participants must bring a laptop with a Mac, Linux or Windows operating system (
 > 💡 **TIP:**  
 > [How to install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-*It would be an advantage if users have access to the [NMBU-Orion HPC](https://orion.nmbu.no/)* 
+*It would be an advantage if the users have access to the [NMBU-Orion HPC](https://orion.nmbu.no/)* 
 
 ### Conda Workshop:
 
