@@ -38,12 +38,26 @@ Dave Edison Rojas Calderón</p>
 
 🗓️ Date: October 31st
 
-📍 Location: Room U121, NMBU [Mazemap](https://link.mazemap.com/XMsJP9tR)
+📍 Location: Room U121, [NMBU Mazemap](https://link.mazemap.com/XMsJP9tR)
 
-🕘 Schedule:
+<div style="
+  background-color:#f5f5f5;
+  border-left:6px solid #4caf50;
+  padding:14px 18px;
+  border-radius:10px;
+  font-size:1.3em;
+  line-height:1.7;
+  text-align:center;
+  margin:20px auto;
+  max-width:400px;
+">
 
-    •	Bash: 09:00–12:00
-    •	Conda/Mamba: 13:00–16:00
+🕘 <strong>Schedule</strong><br><br>
+Bash: <strong>09:00–12:00</strong><br>
+Conda/Mamba: <strong>13:00–16:00</strong>
+
+</div>
+
 
 ## Preparations
 
