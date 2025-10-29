@@ -13,11 +13,11 @@ description: ""    # suppresses the subheader/tagline
 
 **Mastering file manipulation in bash and environment management with conda are essential skills for any researcher working with computational biology or HPC systems.**
 
+
 🔧 What you’ll learn:
 
     •	Bash basics & scripting for data manipulation
     •	Creating, managing, and sharing conda/mamba environments
-
 
 
 🗓️ Date: October 31st
@@ -31,8 +31,13 @@ description: ""    # suppresses the subheader/tagline
 
 ## Preparations
 
-Participants must bring a laptop with a Mac, Linux or Windows operating system (not a tablet, Chromebook, etc.). If windows, users must install the Windows Linux Subsystem (WLS).
-> [!NOTE]
-> [To install the WLS](https://learn.microsoft.com/en-us/windows/wsl/install)
+### Unix-Shell Workshop:
+
+Participants must bring a laptop with a Mac, Linux or Windows operating system (not a tablet, Chromebook, etc.). **If windows, users must install the Windows Linux Subsystem (WLS).**
+> [!HINT]
+> [How to install the WLS](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 It would be an advantage if users have access to the [NMBU-Orion HPC](https://orion.nmbu.no/) 
+
+### Conda Workshop:
+
