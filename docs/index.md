@@ -6,7 +6,12 @@ description: ""    # suppresses the subheader/tagline
 
 <img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/LOGO.jpg" alt="LOGO" height="400">
 
+<div style="background-color:#f0f0f0; border-left:5px solid #ccc; padding:10px; border-radius:8px;">
 
+💡 <strong>Instructor:</strong> Arturo Vera Ponce de León  
+🤝 <strong>Helpers:</strong> Aikaterini Katirtzoglou, Veronica Quarato, Dave Edison Rojas Calderón
+
+</div>
 
 
 ## Are you using or planning to use bash and conda to streamline your bioinformatics workflows?
@@ -48,9 +53,10 @@ Please be sure that you have installed the last version of Conda or Mamba in you
 
 ## Course material
 
-We will follo the Carpentreis material
+We will follow the Carpentries material:
 
 ### [The Unix Shell](https://swcarpentry.github.io/shell-novice/01-intro.html)
 
 ### [Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/01-getting-started-with-conda/index.html)
+
 
