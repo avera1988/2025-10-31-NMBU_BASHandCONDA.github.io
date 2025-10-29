@@ -44,6 +44,13 @@ Participants must bring a laptop with a Mac, Linux or Windows operating system (
 Please be sure that you have installed the last version of Conda or Mamba in your operating system. 
 
 > [!TIP]
-> [Installing Miniforge](https://github.com/conda-forge/miniforge#install)
+> [Installing Conda/Mamba by Miniforge](https://github.com/conda-forge/miniforge#install)
 
-## 
+## Course material
+
+We will follo the Carpentreis material
+
+### [The Unix Shell](https://swcarpentry.github.io/shell-novice/01-intro.html)
+
+### [Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/01-getting-started-with-conda/index.html)
+
