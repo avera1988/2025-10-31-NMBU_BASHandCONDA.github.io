@@ -63,6 +63,8 @@ We will follow the Carpentries material:
 ### [Conda for (Data) Scientists](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/01-getting-started-with-conda/index.html)
 
 
+
+
 > ⚠️ **IMPORTANT:**  
 > For any questions related to this workshop, send an email to
 > [arturo.vera.ponce.de.leon@nmbu.no](mailto:arturo.vera.ponce.de.leon@nmbu.no)
