@@ -4,7 +4,7 @@ title: ""          # suppresses the big header line
 description: ""    # suppresses the subheader/tagline
 ---
 
-<img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/LOGO.jpg" alt="LOGO" height="400">
+<img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/LOGO.jpg" alt="LOGO" height="200">
 
 <div style="background-color:#f0f0f0; border-left:5px solid #ccc; padding:10px; border-radius:8px;">
 
