@@ -6,13 +6,21 @@ description: ""    # suppresses the subheader/tagline
 
 <img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/LOGO.jpg" alt="LOGO" height="200">
 
-<div style="background-color:#f0f0f0; border-left:5px solid #ccc; padding:10px; border-radius:8px;">
+<div style="
+  background-color:#f0f0f0;
+  border-left:5px solid #ccc;
+  padding:10px 15px;
+  border-radius:8px;
+  line-height:1.6;
+">
 
-💡 <strong>Instructor:</strong> Arturo Vera Ponce de León 
+<p>💡 <strong>Instructor:</strong><br>
+Arturo Vera Ponce de León</p>
 
-
-
-🤝 <strong>Helpers:</strong> Aikaterini Katirtzoglou, Veronica Quarato, Dave Edison Rojas Calderón
+<p>🤝 <strong>Helpers:</strong><br>
+Aikaterini Katirtzoglou<br>
+Veronica Quarato<br>
+Dave Edison Rojas Calderón</p>
 
 </div>
 
