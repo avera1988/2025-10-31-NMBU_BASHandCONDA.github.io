@@ -45,7 +45,7 @@ Dave Edison Rojas Calderón (PEP-KBM)</p>
   border-left:6px solid #4caf50;
   padding:12px 16px;
   border-radius:10px;
-  font-size:1.25em;
+  font-size:1.1em;
   line-height:1.6;
   text-align:left;
   margin:15px 0;
