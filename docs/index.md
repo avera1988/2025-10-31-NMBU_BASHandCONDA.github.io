@@ -37,7 +37,12 @@ Participants must bring a laptop with a Mac, Linux or Windows operating system (
 > [!TIP]
 > [How to install the WLS](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-It would be an advantage if users have access to the [NMBU-Orion HPC](https://orion.nmbu.no/) 
+*It would be an advantage if users have access to the [NMBU-Orion HPC](https://orion.nmbu.no/)* 
 
 ### Conda Workshop:
+
+Please be sure that you have installed the last version of Conda or Mamba in your operating system. 
+
+> [!TIP]
+> [Installing Miniforge](https://github.com/conda-forge/miniforge#install)
 
