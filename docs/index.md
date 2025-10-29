@@ -15,12 +15,12 @@ description: ""    # suppresses the subheader/tagline
 ">
 
 <p>💡 <strong>Instructor:</strong><br>
-Arturo Vera Ponce de León</p>
+Arturo Vera Ponce de León IHA-Elixir Norway</p>
 
 <p>🤝 <strong>Helpers:</strong><br>
-Aikaterini Katirtzoglou<br>
-Veronica Quarato<br>
-Dave Edison Rojas Calderón</p>
+Aikaterini Katirtzoglou BIAS-KBM<br>
+Veronica Quarato BIAS-KBM<br>
+Dave Edison Rojas Calderón PEP-KBM</p>
 
 </div>
 
