@@ -43,13 +43,13 @@ Dave Edison Rojas Calderón PEP-KBM</p>
 <div style="
   background-color:#f5f5f5;
   border-left:6px solid #4caf50;
-  padding:14px 18px;
+  padding:12px 16px;
   border-radius:10px;
-  font-size:1.3em;
-  line-height:1.7;
+  font-size:1.25em;
+  line-height:1.6;
   text-align:left;
-  margin:20px auto;
-  max-width:400px;
+  margin:15px 0;
+  max-width:500px;
 ">
 
 🕘 <strong>Schedule</strong><br><br>
