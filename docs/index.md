@@ -88,6 +88,9 @@ We will follow the Carpentries material:
 
 
 
+
+
+
 > ⚠️ **IMPORTANT:**  
 > For any questions related to this workshop, send an email to:
 > [arturo.vera.ponce.de.leon@nmbu.no](mailto:arturo.vera.ponce.de.leon@nmbu.no)
