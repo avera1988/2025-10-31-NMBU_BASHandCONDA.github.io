@@ -4,7 +4,7 @@ title: ""          # suppresses the big header line
 description: ""    # suppresses the subheader/tagline
 ---
 
-<img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/bashconda.jpg" alt="Bash & Conda" height="400">
+<img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/LOGO.jpg" alt="LOGO" height="400">
 
 
 
@@ -46,3 +46,4 @@ Please be sure that you have installed the last version of Conda or Mamba in you
 > [!TIP]
 > [Installing Miniforge](https://github.com/conda-forge/miniforge#install)
 
+## 
