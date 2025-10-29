@@ -29,16 +29,23 @@ Dave Edison Rojas Calderón (PEP-KBM)</p>
 
 **Mastering file manipulation in bash and environment management with conda are essential skills for any researcher working with computational biology or HPC systems.**
 
+<div style="
+  font-size:1.1em;
+  line-height:1.6;
+  margin:15px 0;
+  text-align:left;
+">
 
-🔧 What you’ll learn:
+🔧 <strong>What you’ll learn:</strong><br><br>
+• Bash basics & scripting for data manipulation<br>
+• Creating, managing, and sharing conda/mamba environments<br><br>
 
-    •	Bash basics & scripting for data manipulation
-    •	Creating, managing, and sharing conda/mamba environments
+🗓️ <strong>Date:</strong> October 31st<br>
+📍 <strong>Location:</strong> Room U121, 
+<a href="https://link.mazemap.com/XMsJP9tR" target="_blank">NMBU Mazemap</a>
 
+</div>
 
-🗓️ Date: October 31st
-
-📍 Location: Room U121, [NMBU Mazemap](https://link.mazemap.com/XMsJP9tR)
 
 <div style="
   background-color:#f5f5f5;
