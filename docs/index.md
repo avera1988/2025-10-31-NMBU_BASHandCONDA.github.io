@@ -47,7 +47,7 @@ Dave Edison Rojas Calderón</p>
   border-radius:10px;
   font-size:1.3em;
   line-height:1.7;
-  text-align:center;
+  text-align:left;
   margin:20px auto;
   max-width:400px;
 ">
