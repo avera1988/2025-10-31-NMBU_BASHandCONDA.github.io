@@ -61,4 +61,4 @@ We will follow the Carpentries material:
 
 
 > [!IMPORTANT]
-> For anyquestions related to this workshop send an e-mail to: arturo.vera.ponce.de.leon@nmbu.no
+> For any questions related to this workshop send an e-mail to: arturo.vera.ponce.de.leon@nmbu.no
