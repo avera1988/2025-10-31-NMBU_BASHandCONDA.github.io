@@ -62,3 +62,5 @@ We will follow the Carpentries material:
 
 > [!IMPORTANT]
 > For any questions related to this workshop send an e-mail to: arturo.vera.ponce.de.leon@nmbu.no
+
+<img src="https://github.com/avera1988/2025-10-31-NMBU_BASHandCONDA.github.io/raw/main/images/bashconda.jpg" alt="BASH CONDA" height="400">
